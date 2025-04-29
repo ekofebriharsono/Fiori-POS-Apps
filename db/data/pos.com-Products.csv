@@ -1,0 +1,6 @@
+ID;name;price_seller;price_buyer;stock;category_ID;createdAt;createdBy;modifiedAt;modifiedBy
+e34bc8cd-d53c-4236-8f18-317362ca93c3;Smartphone;699.99;650.00;50;e34bc8cd-d53c-4236-8f18-317362ca93c3;2021-06-27T14:52:23Z;admin;2021-06-27T14:52:23Z;admin
+3de00625-7f5d-4ca6-b525-b84f3aa37bb9;Washing Machine;499.99;450.00;30;3de00625-7f5d-4ca6-b525-b84f3aa37bb9;2021-06-27T14:52:23Z;admin;2021-06-27T14:52:23Z;admin
+3bd00cda-773d-4aab-902a-f9898672d840;Dining Table;299.99;280.00;20;3bd00cda-773d-4aab-902a-f9898672d840;2021-06-27T14:52:23Z;admin;2021-06-27T14:52:23Z;admin
+0c6cf6af-7a97-4128-aa6e-cbdaeaa6ea1a;T-Shirt;19.99;15.00;100;0c6cf6af-7a97-4128-aa6e-cbdaeaa6ea1a;2021-06-27T14:52:23Z;admin;2021-06-27T14:52:23Z;admin
+19ef8a6a-8cb2-4651-a15a-b18496aa8929;Tennis Racket;89.99;80.00;40;19ef8a6a-8cb2-4651-a15a-b18496aa8929;2021-06-27T14:52:23Z;admin;2021-06-27T14:52:23Z;admin
